@@ -1,0 +1,87 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 2,
+      "name": "Noodles",
+      "breed": "Pitbull",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 3,
+      "name": "Shnoodles",
+      "breed": "Yorkie",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Boodles",
+      "breed": "Basset Hound",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 5,
+      "name": "Spoodles",
+      "breed": "Chihuahua",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 6,
+      "name": "Toodles",
+      "breed": "Mastiff",
+      "customerId": 1,
+      "locationId": 2
+    },
+    {
+      "id": 7,
+      "name": "Broodles",
+      "breed": "Newfie",
+      "customerId": 1,
+      "locationId": 2
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Paul Chambers",
+      "address": "7002 Sassafras Ct"
+    },
+
+    { "id": 2, "name": "Joe Zawinul", "address": "7002 Sourgum Ct" },
+
+    { "id": 3, "name": "Joe McPhee", "address": "7002 Sweetbirch Ct" },
+
+    { "id": 4, "name": "Roscoe Mitchell", "address": "7002 Chestnut Ct" },
+
+    { "id": 5, "name": "Georg Graewe", "address": "7002 Elm Ct" },
+
+    { "id": 6, "name": "Muhal Richard Abrams", "address": "7002 Maple Ct" },
+
+    { "id": 7, "name": "Barry Altschul", "address": "7002 Pin Oak Ct" },
+
+    { "id": 8, "name": "Charles Mingus", "address": "7002 Redbud Ct" }
+  ],
+  "employees": [],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
+}
